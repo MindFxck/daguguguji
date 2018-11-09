@@ -2,7 +2,7 @@
 
 **灵魂大师的人格魅力，严肃文学的锤片精髓: Mindfuck**
 
-吕琮霖
+[吕琮霖](https://www.zhihu.com/people/sigmod)
 
 
 
