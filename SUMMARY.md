@@ -14,4 +14,5 @@
 * [没钱太惨](parti-xiao-shuo-yu-san-wen/mei-qian-tai-can.md)
 * [下礼拜就 38 周岁了，感觉很恍惚](parti-xiao-shuo-yu-san-wen/xia-li-bai-jiu-38-zhou-sui-le-gan-jue-hen-huang.md)
 * [我觉得我真活明白了（低速无耻下流）](parti-xiao-shuo-yu-san-wen/wo-jue-de-wo-zhen-huo-ming-bai-le-di-su-wu-chi-xia-liu.md)
+* [怎样摆脱肉体？我有了一个计划](parti-xiao-shuo-yu-san-wen/zen-yang-bai-tuo-rou-ti-wo-you-le-yi-ge-ji-hua.md)
 
