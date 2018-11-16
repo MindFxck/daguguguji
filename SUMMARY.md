@@ -12,3 +12,6 @@
 * [说一说在我老家，庄稼的种植情况](parti-xiao-shuo-yu-san-wen/shuo-yi-shuo-zai-wo-lao-jia-zhuang-jia-de-zhong-zhi-qing-kuang.md)
 * [亲子贴：我的儿子王大锤](parti-xiao-shuo-yu-san-wen/qin-zi-tie-wo-de-er-zi-wang-da-chui.md)
 * [没钱太惨](parti-xiao-shuo-yu-san-wen/mei-qian-tai-can.md)
+* [下礼拜就 38 周岁了，感觉很恍惚](parti-xiao-shuo-yu-san-wen/xia-li-bai-jiu-38-zhou-sui-le-gan-jue-hen-huang.md)
+* [我觉得我真活明白了（低速无耻下流）](parti-xiao-shuo-yu-san-wen/wo-jue-de-wo-zhen-huo-ming-bai-le-di-su-wu-chi-xia-liu.md)
+
