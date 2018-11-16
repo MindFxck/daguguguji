@@ -8,7 +8,12 @@
 
 欢迎各位野生郭冬临 fork、star，共同编辑校对，为严肃文学添砖加瓦。
 
-## 原始文字参考：
+
+## 在线阅读
+
+[《特师文集》](https://mindfucking.gitbook.io/daguguguji/)
+
+## 原始文字参考
 
 本文集的文字内容会基于本项目中的：
 
@@ -37,7 +42,7 @@
 
 `git add -A; git commit -am '你的提交信息'; git push origin master;`
 
-## 贡献者名单：
+## 贡献者名单
 
 * [孬爷爷](https://www.douban.com/people/post-rocker)
 * [⭐️](https://www.douban.com/people/onestar)
