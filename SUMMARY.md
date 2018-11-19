@@ -17,4 +17,6 @@
 * [怎样摆脱肉体？我有了一个计划](parti-xiao-shuo-yu-san-wen/zen-yang-bai-tuo-rou-ti-wo-you-le-yi-ge-ji-hua.md)
 * [我觉得有人要害我](parti-xiao-shuo-yu-san-wen/wo-jue-de-you-ren-yao-hai-wo.md)
 * [现在可以准备了](parti-xiao-shuo-yu-san-wen/xian-zai-ke-yi-zhun-bei-le.md)
+* [这样的人活在世上到底是体制的悲哀还是个体惨剧，你说？](parti-xiao-shuo-yu-san-wen/zhe-yang-de-ren-huo-zai-shi-shang-dao-di-shi-ti-zhi-de-bei-ai-hai-shi-ge-ti-can-ju-ni-shuo.md)
+* [“亚拉嗦 那就是北海公园”](parti-xiao-shuo-yu-san-wen/ya-la-suo-na-jiu-shi-bei-hai-gong-yuan.md)
 
