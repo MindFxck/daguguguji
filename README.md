@@ -28,9 +28,9 @@ I 小说与散文
 * [x] 10: [现在可以准备了](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/xian-zai-ke-yi-zhun-bei-le)
 * [x] 11: [这样的人活在世上到底是体制的悲哀还是个体惨剧，你说？](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zhe-yang-de-ren-huo-zai-shi-shang-dao-di-shi-ti-zhi-de-bei-ai-hai-shi-ge-ti-can-ju-ni-shuo)
 * [x] 12: [“亚拉嗦 那就是北海公园”](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/ya-la-suo-na-jiu-shi-bei-hai-gong-yuan)
-* [ ] 13: \(德味\) 我突然发现我使用诺基亚的方向完全错了
-* [ ] 14: 冬至老公崩溃了（温馨感人）
-* [ ] 15: 活在裆下：时代的晚上
+* [x] 13: [\(德味\) 我突然发现我使用诺基亚的方向完全错了](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le)
+* [x] 14: [冬至老公崩溃了（温馨感人）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/dong-zhi-lao-gong-beng-kui-le-wen-gan-ren)
+* [x] 15: [活在裆下：时代的晚上](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/huo-zai-dang-xia-shi-dai-de-wan-shang)
 * [ ] 16: 一次突如其来的性生活
 * [ ] 17: 经过认真思考，老王发现老张不适合自己
 * [ ] 18: 中产阶级的隐秘生活（惊悚）

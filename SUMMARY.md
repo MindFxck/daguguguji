@@ -19,4 +19,7 @@
 * [现在可以准备了](parti-xiao-shuo-yu-san-wen/xian-zai-ke-yi-zhun-bei-le.md)
 * [这样的人活在世上到底是体制的悲哀还是个体惨剧，你说？](parti-xiao-shuo-yu-san-wen/zhe-yang-de-ren-huo-zai-shi-shang-dao-di-shi-ti-zhi-de-bei-ai-hai-shi-ge-ti-can-ju-ni-shuo.md)
 * [“亚拉嗦 那就是北海公园”](parti-xiao-shuo-yu-san-wen/ya-la-suo-na-jiu-shi-bei-hai-gong-yuan.md)
+* [\(德味\) 我突然发现我使用诺基亚的方向完全错了](parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le.md)
+* [冬至老公崩溃了（温馨感人）](parti-xiao-shuo-yu-san-wen/dong-zhi-lao-gong-beng-kui-le-wen-gan-ren.md)
+* [活在裆下：时代的晚上](parti-xiao-shuo-yu-san-wen/huo-zai-dang-xia-shi-dai-de-wan-shang.md)
 
