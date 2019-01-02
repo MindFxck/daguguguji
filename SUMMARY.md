@@ -22,4 +22,5 @@
 * [\(德味\) 我突然发现我使用诺基亚的方向完全错了](parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le.md)
 * [冬至老公崩溃了（温馨感人）](parti-xiao-shuo-yu-san-wen/dong-zhi-lao-gong-beng-kui-le-wen-gan-ren.md)
 * [活在裆下：时代的晚上](parti-xiao-shuo-yu-san-wen/huo-zai-dang-xia-shi-dai-de-wan-shang.md)
+* [一次突如其来的性生活](parti-xiao-shuo-yu-san-wen/yi-ci-tu-ru-qi-lai-de-xing-sheng-huo.md)
 
