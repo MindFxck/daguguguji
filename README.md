@@ -33,7 +33,7 @@ I 小说与散文
 * [x] 15: [活在裆下：时代的晚上](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/huo-zai-dang-xia-shi-dai-de-wan-shang)
 * [x] 16: [一次突如其来的性生活](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/yi-ci-tu-ru-qi-lai-de-xing-sheng-huo)
 * [x] 17: [经过认真思考，老王发现老张不适合自己](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/jing-guo-ren-zhen-si-kao-lao-wang-fa-xian-lao-zhang-bu-shi-he-zi-ji)
-* [ ] 18: 中产阶级的隐秘生活（惊悚）
+* [x] 18: [中产阶级的隐秘生活（惊悚）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zhong-chan-jie-ji-de-yin-mi-sheng-huo-jing)
 * [ ] 19: 动物园里故事很多的，随便讲几个
 * [ ] 20: 德州人在巴黎，在北京旅游的几个小故事
 * [ ] 21: 住一楼的好处
