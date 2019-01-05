@@ -36,7 +36,7 @@ I 小说与散文
 * [x] 18: [中产阶级的隐秘生活（惊悚）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zhong-chan-jie-ji-de-yin-mi-sheng-huo-jing)
 * [x] 19: [动物园里故事很多的，随便讲几个](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/dong-wu-yuan-li-gu-shi-hen-duo-de-sui-bian-jiang-ji-ge)
 * [x] 20: [德州人在巴黎，在北京旅游的几个小故事](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/de-zhou-ren-zai-ba-li-zai-bei-jing-lv-you-de-ji-ge-xiao-gu-shi)
-* [ ] 21: 住一楼的好处
+* [x] 21: [住一楼的好处](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zhu-yi-lou-de-hao-chu)
 * [ ] 22: 大雪后的清晨（温馨感人）
 * [ ] 23: 你国狗观察
 * [ ] 24: 今天我指点了一个驴
