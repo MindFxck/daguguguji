@@ -25,4 +25,5 @@
 * [一次突如其来的性生活](parti-xiao-shuo-yu-san-wen/yi-ci-tu-ru-qi-lai-de-xing-sheng-huo.md)
 * [经过认真思考，老王发现老张不适合自己](parti-xiao-shuo-yu-san-wen/jing-guo-ren-zhen-si-kao-lao-wang-fa-xian-lao-zhang-bu-shi-he-zi-ji.md)
 * [中产阶级的隐秘生活（惊悚）](parti-xiao-shuo-yu-san-wen/zhong-chan-jie-ji-de-yin-mi-sheng-huo-jing.md)
+* [动物园里故事很多的，随便讲几个](parti-xiao-shuo-yu-san-wen/dong-wu-yuan-li-gu-shi-hen-duo-de-sui-bian-jiang-ji-ge.md)
 
