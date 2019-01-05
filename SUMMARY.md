@@ -27,4 +27,5 @@
 * [中产阶级的隐秘生活（惊悚）](parti-xiao-shuo-yu-san-wen/zhong-chan-jie-ji-de-yin-mi-sheng-huo-jing.md)
 * [动物园里故事很多的，随便讲几个](parti-xiao-shuo-yu-san-wen/dong-wu-yuan-li-gu-shi-hen-duo-de-sui-bian-jiang-ji-ge.md)
 * [德州人在巴黎，在北京旅游的几个小故事](parti-xiao-shuo-yu-san-wen/de-zhou-ren-zai-ba-li-zai-bei-jing-lv-you-de-ji-ge-xiao-gu-shi.md)
+* [住一楼的好处](parti-xiao-shuo-yu-san-wen/zhu-yi-lou-de-hao-chu.md)
 
