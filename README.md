@@ -40,7 +40,7 @@ I 小说与散文
 * [x] 22: [大雪后的清晨（温馨感人）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/da-xue-hou-de-qing-chen-wen-xin-gan-ren)
 * [x] 23: [你国狗观察](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/ni-guo-gou-guan-cha)
 * [x] 24: [今天我指点了一个驴](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/jin-tian-wo-zhi-dian-le-yi-ge-lv)
-* [ ] 25: 说一下今天晚上跟着恰恰恰去签字的情况，哈感人（更新好了）
+* [x] 25: [说一下今天晚上跟着恰恰恰去签字的情况，哈感人（更新好了）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/shuo-yi-xia-jin-tian-wan-shang-gen-zhe-qia-qia-qia-qu-qian-zi-de-qing-kuang-ha-gan-ren-geng-xin-hao)
 * [ ] 26: 武汉某幸福中产家庭里一个狗，的波澜壮阔大计划（励志向上）
 * [ ] 27: 广场（幸福圆满）
 * [ ] 28: 一个奇怪的情形我见到在河边今天有一个时候
