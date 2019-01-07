@@ -42,7 +42,7 @@ I 小说与散文
 * [x] 24: [今天我指点了一个驴](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/jin-tian-wo-zhi-dian-le-yi-ge-lv)
 * [x] 25: [说一下今天晚上跟着恰恰恰去签字的情况，哈感人（更新好了）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/shuo-yi-xia-jin-tian-wan-shang-gen-zhe-qia-qia-qia-qu-qian-zi-de-qing-kuang-ha-gan-ren-geng-xin-hao)
 * [x] 26: [武汉某幸福中产家庭里一个狗，的波澜壮阔大计划（励志向上）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/wu-han-mou-xing-fu-zhong-chan-jia-ting-li-yi-ge-gou-de-bo-lan-zhuang-kuo-da-ji-hua-li-zhi-xiang-shan)
-* [ ] 27: 广场（幸福圆满）
+* [x] 27: [广场（幸福圆满）](https://mindfucking.gitbook.io/daguguguji/~/edit/drafts/-LVb-_WIRdl4nvTPpVpM/parti-xiao-shuo-yu-san-wen/guang-chang-xing-fu-yuan-man)
 * [ ] 28: 一个奇怪的情形我见到在河边今天有一个时候
 * [ ] 29: 震惊了！我们一个同事是猩猩，今天被北京动物园的抓走了
 * [ ] 30: （仮）夏日最后的风景
@@ -197,6 +197,7 @@ VII [拾遗](https://www.douban.com/group/topic/108308206/)
 * [book.txt](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/book.txt)
 * [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
 * [人间动物园](http://lidamao.com)
+* [张大锤](https://www.jianshu.com/u/6a4cf8d99999)
 
 ## 一些命令
 
