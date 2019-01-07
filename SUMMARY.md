@@ -30,4 +30,5 @@
 * [住一楼的好处](parti-xiao-shuo-yu-san-wen/zhu-yi-lou-de-hao-chu.md)
 * [大雪后的清晨（温馨感人）](parti-xiao-shuo-yu-san-wen/da-xue-hou-de-qing-chen-wen-xin-gan-ren.md)
 * [你国狗观察](parti-xiao-shuo-yu-san-wen/ni-guo-gou-guan-cha.md)
+* [今天我指点了一个驴](parti-xiao-shuo-yu-san-wen/jin-tian-wo-zhi-dian-le-yi-ge-lv.md)
 
