@@ -29,4 +29,5 @@
 * [德州人在巴黎，在北京旅游的几个小故事](parti-xiao-shuo-yu-san-wen/de-zhou-ren-zai-ba-li-zai-bei-jing-lv-you-de-ji-ge-xiao-gu-shi.md)
 * [住一楼的好处](parti-xiao-shuo-yu-san-wen/zhu-yi-lou-de-hao-chu.md)
 * [大雪后的清晨（温馨感人）](parti-xiao-shuo-yu-san-wen/da-xue-hou-de-qing-chen-wen-xin-gan-ren.md)
+* [你国狗观察](parti-xiao-shuo-yu-san-wen/ni-guo-gou-guan-cha.md)
 
