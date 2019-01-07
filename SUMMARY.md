@@ -32,4 +32,5 @@
 * [你国狗观察](parti-xiao-shuo-yu-san-wen/ni-guo-gou-guan-cha.md)
 * [今天我指点了一个驴](parti-xiao-shuo-yu-san-wen/jin-tian-wo-zhi-dian-le-yi-ge-lv.md)
 * [说一下今天晚上跟着恰恰恰去签字的情况，哈感人（更新好了）](parti-xiao-shuo-yu-san-wen/shuo-yi-xia-jin-tian-wan-shang-gen-zhe-qia-qia-qia-qu-qian-zi-de-qing-kuang-ha-gan-ren-geng-xin-hao.md)
+* [武汉某幸福中产家庭里一个狗，的波澜壮阔大计划（励志向上）](parti-xiao-shuo-yu-san-wen/wu-han-mou-xing-fu-zhong-chan-jia-ting-li-yi-ge-gou-de-bo-lan-zhuang-kuo-da-ji-hua-li-zhi-xiang-shan.md)
 
