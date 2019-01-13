@@ -47,3 +47,6 @@
 ## Part II 诗歌
 
 * [七月](partii-shi-ge/qi-yue.md)
+* [一段时期的平原生活](partii-shi-ge/yi-duan-shi-qi-de-ping-yuan-sheng-huo.md)
+* [风](partii-shi-ge/feng.md)
+* [想你](partii-shi-ge/xiang-ni.md)
