@@ -39,4 +39,5 @@
 * [（仮）夏日最后的风景](parti-xiao-shuo-yu-san-wen/xia-ri-zui-hou-de-feng-jing.md)
 * [怎样克服恐惧心理在七月底吃上优质的生汆丸子](parti-xiao-shuo-yu-san-wen/zen-yang-ke-fu-kong-ju-xin-li-zai-qi-yue-di-chi-shang-you-zhi-de-sheng-wan-zi.md)
 * [晚饭吃什么系列之刚才在小区门口的一次惨烈搏斗！](parti-xiao-shuo-yu-san-wen/wan-fan-chi-shen-me-xi-lie-zhi-gang-cai-zai-xiao-qu-men-kou-de-yi-ci-can-lie-bo-dou.md)
+* [大师理性评测舌尖上的中国 2 第一集](parti-xiao-shuo-yu-san-wen/da-shi-li-xing-ping-ce-she-jian-shang-de-zhong-guo-2-di-yi-ji.md)
 
