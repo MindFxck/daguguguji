@@ -55,20 +55,20 @@ I 小说与散文
 II 诗歌
 
 * [x] 36: [七月](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/qi-yue)
-* [ ] 37: 一段时期的平原生活
+* [x] 37: [一段时期的平原生活](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/yi-duan-shi-qi-de-ping-yuan-sheng-huo)
 * [ ] 38: 平原上的老王
 * [ ] 39: 一种草
 * [ ] 40: 看驴 1
 * [ ] 41: 看驴 2
 * [ ] 42: 驴的一种爱好
 * [ ] 43: 安徽人
-* [ ] 44: 风
+* [x] 44: [风](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/feng)
 * [ ] 45: 副局长
 * [ ] 46: 在夏天必须认识一个姑娘
 * [ ] 47: 大叙事
 * [ ] 48: 深夜
 * [ ] 49: 腰子
-* [ ] 50: 想你
+* [x] 50: [想你](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/xiang-ni)
 * [ ] 51: 怎么同意地球是圆的
 
 III 段子与微评
