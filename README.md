@@ -54,7 +54,7 @@ I 小说与散文
 
 II 诗歌
 
-* [ ] 36: 七月
+* [x] 36: [七月](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/qi-yue)
 * [ ] 37: 一段时期的平原生活
 * [ ] 38: 平原上的老王
 * [ ] 39: 一种草
