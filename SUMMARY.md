@@ -40,4 +40,6 @@
 * [怎样克服恐惧心理在七月底吃上优质的生汆丸子](parti-xiao-shuo-yu-san-wen/zen-yang-ke-fu-kong-ju-xin-li-zai-qi-yue-di-chi-shang-you-zhi-de-sheng-wan-zi.md)
 * [晚饭吃什么系列之刚才在小区门口的一次惨烈搏斗！](parti-xiao-shuo-yu-san-wen/wan-fan-chi-shen-me-xi-lie-zhi-gang-cai-zai-xiao-qu-men-kou-de-yi-ci-can-lie-bo-dou.md)
 * [大师理性评测舌尖上的中国 2 第一集](parti-xiao-shuo-yu-san-wen/da-shi-li-xing-ping-ce-she-jian-shang-de-zhong-guo-2-di-yi-ji.md)
+* [拉萨（遗失](parti-xiao-shuo-yu-san-wen/la-sa-yi-shi.md)
+* [黄浦江深夜致电某领导，黄浦江有话要讲！](parti-xiao-shuo-yu-san-wen/huang-pu-jiang-shen-ye-zhi-dian-mou-ling-dao-huang-pu-jiang-you-hua-yao-jiang.md)
 
