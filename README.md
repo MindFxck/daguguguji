@@ -46,7 +46,7 @@ I 小说与散文
 * [x] 28: [一个奇怪的情形我见到在河边今天有一个时候](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/yi-ge-qi-guai-de-qing-xing-wo-jian-dao-zai-he-bian-jin-tian-you-yi-ge-shi-hou)
 * [x] 29: [震惊了！我们一个同事是猩猩，今天被北京动物园的抓走了](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zhen-jing-le-wo-men-yi-ge-tong-shi-shi-xing-xing-jin-tian-bei-bei-jing-dong-wu-yuan-de-zhua-zou-le)
 * [x] 30: [（仮）夏日最后的风景](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/xia-ri-zui-hou-de-feng-jing)
-* [ ] 31: 怎样克服恐惧心理在七月底吃上优质的生汆丸子
+* [x] 31: [怎样克服恐惧心理在七月底吃上优质的生汆丸子](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zen-yang-ke-fu-kong-ju-xin-li-zai-qi-yue-di-chi-shang-you-zhi-de-sheng-wan-zi)
 * [ ] 32: 晚饭吃什么系列之刚才在小区门口的一次惨烈搏斗!
 * [ ] 33: 大师理性评测舌尖上的中国 2 第一集
 * [ ] 34: 关于去拉萨的说两句
