@@ -48,7 +48,7 @@ I 小说与散文
 * [x] 30: [（仮）夏日最后的风景](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/xia-ri-zui-hou-de-feng-jing)
 * [x] 31: [怎样克服恐惧心理在七月底吃上优质的生汆丸子](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zen-yang-ke-fu-kong-ju-xin-li-zai-qi-yue-di-chi-shang-you-zhi-de-sheng-wan-zi)
 * [x] 32: [晚饭吃什么系列之刚才在小区门口的一次惨烈搏斗！](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/wan-fan-chi-shen-me-xi-lie-zhi-gang-cai-zai-xiao-qu-men-kou-de-yi-ci-can-lie-bo-dou)
-* [ ] 33: 大师理性评测舌尖上的中国 2 第一集
+* [x] 33: [大师理性评测舌尖上的中国 2 第一集](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/da-shi-li-xing-ping-ce-she-jian-shang-de-zhong-guo-2-di-yi-ji)
 * [ ] 34: 关于去拉萨的说两句
 * [ ] 35: 黄浦江深夜致电某领导，黄浦江有话要讲！
 
