@@ -36,4 +36,6 @@
 * [广场（幸福圆满）](parti-xiao-shuo-yu-san-wen/guang-chang-xing-fu-yuan-man.md)
 * [一个奇怪的情形我见到在河边今天有一个时候](parti-xiao-shuo-yu-san-wen/yi-ge-qi-guai-de-qing-xing-wo-jian-dao-zai-he-bian-jin-tian-you-yi-ge-shi-hou.md)
 * [震惊了！我们一个同事是猩猩，今天被北京动物园的抓走了](parti-xiao-shuo-yu-san-wen/zhen-jing-le-wo-men-yi-ge-tong-shi-shi-xing-xing-jin-tian-bei-bei-jing-dong-wu-yuan-de-zhua-zou-le.md)
+* [（仮）夏日最后的风景](parti-xiao-shuo-yu-san-wen/xia-ri-zui-hou-de-feng-jing.md)
+* [怎样克服恐惧心理在七月底吃上优质的生汆丸子](parti-xiao-shuo-yu-san-wen/zen-yang-ke-fu-kong-ju-xin-li-zai-qi-yue-di-chi-shang-you-zhi-de-sheng-wan-zi.md)
 
