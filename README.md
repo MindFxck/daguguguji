@@ -49,27 +49,27 @@ I 小说与散文
 * [x] 31: [怎样克服恐惧心理在七月底吃上优质的生汆丸子](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zen-yang-ke-fu-kong-ju-xin-li-zai-qi-yue-di-chi-shang-you-zhi-de-sheng-wan-zi)
 * [x] 32: [晚饭吃什么系列之刚才在小区门口的一次惨烈搏斗！](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/wan-fan-chi-shen-me-xi-lie-zhi-gang-cai-zai-xiao-qu-men-kou-de-yi-ci-can-lie-bo-dou)
 * [x] 33: [大师理性评测舌尖上的中国 2 第一集](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/da-shi-li-xing-ping-ce-she-jian-shang-de-zhong-guo-2-di-yi-ji)
-* [ ] 34: 关于去拉萨的说两句
+* [x] 34: [关于去拉萨的说两句](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/la-sa-yi-shi)
 * [x] 35: [黄浦江深夜致电某领导，黄浦江有话要讲！](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/huang-pu-jiang-shen-ye-zhi-dian-mou-ling-dao-huang-pu-jiang-you-hua-yao-jiang)
 
 II 诗歌
 
 * [x] 36: [七月](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/qi-yue)
 * [x] 37: [一段时期的平原生活](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/yi-duan-shi-qi-de-ping-yuan-sheng-huo)
-* [ ] 38: 平原上的老王
-* [ ] 39: 一种草
-* [ ] 40: 看驴 1
-* [ ] 41: 看驴 2
-* [ ] 42: 驴的一种爱好
-* [ ] 43: 安徽人
+* [x] 38: [平原上的老王](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ping-yuan-shang-de-lao-wang)
+* [x] 39: [一种草](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/yi-zhong-cao)
+* [x] 40: [看驴 1](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/kan-lv-1)
+* [x] 41: [看驴 2](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/kan-lv-2)
+* [x] 42: [驴的一种爱好](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/lv-de-yi-zhong-ai-hao)
+* [x] 43: [安徽人](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/an-hui-ren)
 * [x] 44: [风](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/feng)
-* [ ] 45: 副局长
-* [ ] 46: 在夏天必须认识一个姑娘
-* [ ] 47: 大叙事
-* [ ] 48: 深夜
-* [ ] 49: 腰子
+* [x] 45: [副局长](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/fu-ju-chang)
+* [x] 46: [在夏天必须认识一个姑娘](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/zai-xia-tian-bi-xu-ren-shi-yi-ge-gu-niang)
+* [x] 47: [大叙事](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/da-xu-shi)
+* [x] 48: [深夜](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/shen-ye)
+* [x] 49: [腰子](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/yao-zi)
 * [x] 50: [想你](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/xiang-ni)
-* [ ] 51: 怎么同意地球是圆的
+* [x] 51: [怎么同意地球是圆的](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/zen-me-tong-yi-di-qiu-shi-yuan-de)
 
 III 段子与微评
 
