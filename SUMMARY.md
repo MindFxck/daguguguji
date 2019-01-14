@@ -43,10 +43,11 @@
 * [拉萨（遗失](parti-xiao-shuo-yu-san-wen/la-sa-yi-shi.md)
 * [黄浦江深夜致电某领导，黄浦江有话要讲！](parti-xiao-shuo-yu-san-wen/huang-pu-jiang-shen-ye-zhi-dian-mou-ling-dao-huang-pu-jiang-you-hua-yao-jiang.md)
 
-
 ## Part II 诗歌
 
-* [七月](partii-shi-ge/qi-yue.md)
-* [一段时期的平原生活](partii-shi-ge/yi-duan-shi-qi-de-ping-yuan-sheng-huo.md)
-* [风](partii-shi-ge/feng.md)
-* [想你](partii-shi-ge/xiang-ni.md)
+* [七月](part-ii-shi-ge/qi-yue.md)
+* [一段时期的平原生活](part-ii-shi-ge/yi-duan-shi-qi-de-ping-yuan-sheng-huo.md)
+* [平原上的老王](part-ii-shi-ge/ping-yuan-shang-de-lao-wang.md)
+* [风](part-ii-shi-ge/feng.md)
+* [想你](part-ii-shi-ge/xiang-ni.md)
+
