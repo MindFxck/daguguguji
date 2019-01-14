@@ -64,7 +64,10 @@
 
 ## PART III 段子与微评
 
-* [Untitled](part-iii-duan-zi-yu-wei-ping/untitled.md)
+* [几个长镜头素材](part-iii-duan-zi-yu-wei-ping/untitled.md)
+* [吃与境界](part-iii-duan-zi-yu-wei-ping/chi-yu-jing-jie.md)
+* [畅销仁波切](part-iii-duan-zi-yu-wei-ping/chang-xiao-ren-bo-qie.md)
+* [北京的朋友](part-iii-duan-zi-yu-wei-ping/bei-jing-de-peng-you.md)
 
 ## PART IV 野生郭东林仿写
 
