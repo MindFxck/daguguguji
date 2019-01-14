@@ -40,7 +40,7 @@
 * [怎样克服恐惧心理在七月底吃上优质的生汆丸子](parti-xiao-shuo-yu-san-wen/zen-yang-ke-fu-kong-ju-xin-li-zai-qi-yue-di-chi-shang-you-zhi-de-sheng-wan-zi.md)
 * [晚饭吃什么系列之刚才在小区门口的一次惨烈搏斗！](parti-xiao-shuo-yu-san-wen/wan-fan-chi-shen-me-xi-lie-zhi-gang-cai-zai-xiao-qu-men-kou-de-yi-ci-can-lie-bo-dou.md)
 * [大师理性评测舌尖上的中国 2 第一集](parti-xiao-shuo-yu-san-wen/da-shi-li-xing-ping-ce-she-jian-shang-de-zhong-guo-2-di-yi-ji.md)
-* [拉萨（遗失](parti-xiao-shuo-yu-san-wen/la-sa-yi-shi.md)
+* [关于去拉萨的说两句](parti-xiao-shuo-yu-san-wen/la-sa-yi-shi.md)
 * [黄浦江深夜致电某领导，黄浦江有话要讲！](parti-xiao-shuo-yu-san-wen/huang-pu-jiang-shen-ye-zhi-dian-mou-ling-dao-huang-pu-jiang-you-hua-yao-jiang.md)
 
 ## Part II 诗歌
@@ -48,6 +48,17 @@
 * [七月](part-ii-shi-ge/qi-yue.md)
 * [一段时期的平原生活](part-ii-shi-ge/yi-duan-shi-qi-de-ping-yuan-sheng-huo.md)
 * [平原上的老王](part-ii-shi-ge/ping-yuan-shang-de-lao-wang.md)
+* [一种草](part-ii-shi-ge/yi-zhong-cao.md)
+* [看驴 1](part-ii-shi-ge/kan-lv-1.md)
+* [看驴 2](part-ii-shi-ge/kan-lv-2.md)
+* [驴的一种爱好](part-ii-shi-ge/lv-de-yi-zhong-ai-hao.md)
+* [安徽人](part-ii-shi-ge/an-hui-ren.md)
 * [风](part-ii-shi-ge/feng.md)
+* [副局长](part-ii-shi-ge/fu-ju-chang.md)
+* [在夏天必须认识一个姑娘](part-ii-shi-ge/zai-xia-tian-bi-xu-ren-shi-yi-ge-gu-niang.md)
+* [大叙事](part-ii-shi-ge/da-xu-shi.md)
+* [深夜](part-ii-shi-ge/shen-ye.md)
+* [腰子](part-ii-shi-ge/yao-zi.md)
 * [想你](part-ii-shi-ge/xiang-ni.md)
+* [怎么同意地球是圆的](part-ii-shi-ge/zen-me-tong-yi-di-qiu-shi-yuan-de.md)
 
