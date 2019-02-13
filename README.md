@@ -188,7 +188,9 @@ VII 补录
 * [ ] 153: [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le)
 * [ ] 154: [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
 
-VII [拾遗](https://www.douban.com/group/topic/108308206/)
+VII 拾遗
+
+* [特师拾遗](https://mindfucking.gitbook.io/daguguguji/part-vii-shi-yi/te-shi-shi-yi)
 
 ## 原始文字参考
 
