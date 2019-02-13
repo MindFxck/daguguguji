@@ -74,7 +74,7 @@ II 诗歌
 III 段子与微评
 
 * [x] 52: [几个长镜头素材](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ji-ge-chang-jing-tou-su-cai)
-* [x] 53: [吃与境界](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/chi-yu-jing-jiechang-xiao-ren-bo-qie)
+* [x] 53: [吃与境界](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/chi-yu-jing-jie)
 * [x] 54: [畅销仁波切](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/chang-xiao-ren-bo-qie)
 * [x] 55: [北京的朋友](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-de-peng-you)
 * [x] 56: [北京餐饮](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-can-yin)
@@ -192,7 +192,7 @@ VII [拾遗](https://www.douban.com/group/topic/108308206/)
 
 ## 原始文字参考
 
-本文集的文字内容会基于：
+本文集的文字内容会基于以下内容整理：
 
 * [book.pdf](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/book.pdf)
 * [book.txt](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/book.txt)
