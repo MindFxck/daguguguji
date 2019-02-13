@@ -73,68 +73,68 @@ II 诗歌
 
 III 段子与微评
 
-* [ ] 52: 几个长镜头素材
-* [ ] 53: 吃与境界
-* [ ] 54: 畅销仁波切
-* [ ] 55: 北京的朋友
-* [ ] 56: 北京餐饮
-* [ ] 57: 公园
-* [ ] 58: 猴性
-* [ ] 59: 灵魂交互 app
-* [ ] 60: 大师减肥秘方
-* [ ] 61: 张大锤跑步比赛
-* [ ] 62: 如何治疗怀才不遇 1
-* [ ] 63: 如何治疗怀才不遇 2
-* [ ] 64: 冰箱
-* [ ] 65: 200 抽厕纸诗集
-* [ ] 66: 夫～夫～
-* [ ] 67: 面膜
-* [ ] 68: 美发店的记号
-* [ ] 69: 人民做主
-* [ ] 70: 存在
-* [ ] 71: 远方 1
-* [ ] 72: 远方 2
-* [ ] 73: 北京咖啡馆
-* [ ] 74: 社会主义的成功
-* [ ] 75: 呐喊
-* [ ] 76: 当代
-* [ ] 77: 出国
-* [ ] 78: 你胖了
-* [ ] 79: 痛苦写作
-* [ ] 80: 书店的味儿
-* [ ] 81: 太阳和煤球
-* [ ] 82: 你变了
-* [ ] 83: be 说话
-* [ ] 84: 为你推荐七个饭后好习惯
-* [ ] 85: 回归
-* [ ] 86: 电梯内外的一个时刻
-* [ ] 87: 刑具
-* [ ] 88: 北京狗有多少
-* [ ] 89: 报复社会
-* [ ] 90: 吸毒和跑步
-* [ ] 91: 东直门儿
-* [ ] 92: 精神世界
-* [ ] 93: 一种生活
-* [ ] 94: 饺子
-* [ ] 95: 苏州完蛋了
-* [ ] 96: tfuncles
-* [ ] 97: 你国和我国
-* [ ] 98: 中华盛世 mojito
-* [ ] 99: 回转北京小吃
-* [ ] 100: o2o 煎饼摊
-* [ ] 101: 猪油
-* [ ] 102: 聚餐
-* [ ] 103: 活虾
-* [ ] 104: 啤酒
-* [ ] 105: 711 关东煮
-* [ ] 106: 姑爷上门宴
-* [ ] 107: 八十年代
-* [ ] 108: 九十年代
-* [ ] 109: 行善
-* [ ] 110: 申奥
-* [ ] 111: 捡钱包
-* [ ] 112: 北京出租司机
-* [ ] 113: 中产阶级
+* [x] 52: [几个长镜头素材](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ji-ge-chang-jing-tou-su-cai)
+* [x] 53: [吃与境界](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/chi-yu-jing-jiechang-xiao-ren-bo-qie)
+* [x] 54: [畅销仁波切](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/chang-xiao-ren-bo-qie)
+* [x] 55: [北京的朋友](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-de-peng-you)
+* [x] 56: [北京餐饮](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-can-yin)
+* [x] 57: [公园](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/gong-yuan)
+* [x] 58: [猴性](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/hou-xing)
+* [x] 59: [灵魂交互 app](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ling-hun-jiao-hu-app)
+* [x] 60: [大师减肥秘方](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ling-hun-jiao-hu-app)
+* [x] 61: [张大锤跑步比赛](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/zhang-da-chui-pao-bu-bi-sai)
+* [x] 62: [如何治疗怀才不遇 1](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ru-he-zhi-liao-huai-cai-bu-yu-1)
+* [x] 63: [如何治疗怀才不遇 2](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ru-he-zhi-liao-huai-cai-bu-yu-2)
+* [x] 64: [冰箱](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bing-xiang)
+* [x] 65: [200 抽厕纸诗集](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/200-chou-ce-zhi-shi-ji)
+* [x] 66: [夫～夫～](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/fu-fu)
+* [x] 67: [面膜](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/mian-mo)
+* [x] 68: [美发店的记号](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/mei-fa-dian-de-ji-hao)
+* [x] 69: [人民做主](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ren-min-zuo-zhu)
+* [x] 70: [存在](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/cun-zai)
+* [x] 71: [远方 1](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/yuan-fang-1)
+* [x] 72: [远方 2](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/yuan-fang-2)
+* [x] 73: [北京咖啡馆](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-ka-fei-guan)
+* [x] 74: [社会主义的成功](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/she-hui-zhu-yi-de-cheng-gong)
+* [x] 75: [呐喊](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/na-han)
+* [x] 76: [当代](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/dang-dai)
+* [x] 77: [出国](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/chu-guo)
+* [x] 78: [你胖了](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ni-pang-liao)
+* [x] 79: [痛苦写作](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/tong-ku-xie-zuo)
+* [x] 80: [书店的味儿](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/shu-dian-de-wei-er)
+* [x] 81: [太阳和煤球](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/tai-yang-he-mei-qiu)
+* [x] 82: [你变了](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ni-bian-liao)
+* [x] 83: [be 说话（缺失](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/be-shuo-hua)
+* [x] 84: [为你推荐七个饭后好习惯](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/wei-ni-tui-jian-qi-ge-fan-hou-hao-xi-guan)
+* [x] 85: [回归](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/hui-gui)
+* [x] 86: [电梯内外的一个时刻](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/dian-ti-nei-wai-de-yi-ge-shi-ke)
+* [x] 87: [刑具](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/xing-ju)
+* [x] 88: [北京狗有多少](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-gou-you-duo-shao)
+* [x] 89: [报复社会](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bao-fu-she-hui)
+* [x] 90: [吸毒和跑步](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/xi-du-he-pao-bu)
+* [x] 91: [东直门儿](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/dong-zhi-men-er)
+* [x] 92: [精神世界](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/jing-shen-shi-jie)
+* [x] 93: [一种生活](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/yi-zhong-sheng-huo)
+* [x] 94: [饺子](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/jiao-zi)
+* [x] 95: [苏州完蛋了](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/su-zhou-wan-dan-liao)
+* [x] 96: [tfuncles](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/tfuncles)
+* [x] 97: [你国和我国](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ni-guo-he-wo-guo)
+* [x] 98: [中华盛世 mojito](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/zhong-hua-sheng-shi-mojito)
+* [x] 99: [回转北京小吃](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/hui-zhuan-bei-jing-xiao-chi)
+* [x] 100: [o2o 煎饼摊](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/o2o-jian-bing-tan)
+* [x] 101: [猪油](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/zhu-you)
+* [x] 102: [聚餐](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ju-can)
+* [x] 103: [活虾](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/huo-xia)
+* [x] 104: [啤酒](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/pi-jiu)
+* [x] 105: [711 关东煮](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/711-guan-dong-zhu)
+* [x] 106: [姑爷上门宴](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/gu-ye-shang-men-yan)
+* [x] 107: [八十年代](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/ba-shi-nian-dai)
+* [x] 108: [九十年代](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/jiu-shi-nian-dai)
+* [x] 109: [行善](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/xing-shan)
+* [x] 110: [申奥](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/shen-ao)
+* [x] 111: [捡钱包](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/jian-qian-bao)
+* [x] 112: [北京出租司机](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-chu-zu-si-ji)
+* [x] 113: [中产阶级](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/zhong-chan-jie-ji)
 
 IV 野生郭东林仿写
 
@@ -213,6 +213,10 @@ VII [拾遗](https://www.douban.com/group/topic/108308206/)
 ### 2 启动本地开发预览
 
 `gitbook serve`
+
+访问 http://127.0.0.1:4000/
+
+<img src="https://ww1.sinaimg.cn/large/61b8bbf4ly1g04o1w6u0ej225c1bg4k1.jpg" width="100%" />
 
 ### 3 build
 
