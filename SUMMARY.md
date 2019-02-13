@@ -64,7 +64,7 @@
 
 ## PART III 段子与微评
 
-* [几个长镜头素材](part-iii-duan-zi-yu-wei-ping/untitled.md)
+* [几个长镜头素材](part-iii-duan-zi-yu-wei-ping/ji-ge-chang-jing-tou-su-cai.md)
 * [吃与境界](part-iii-duan-zi-yu-wei-ping/chi-yu-jing-jie.md)
 * [畅销仁波切](part-iii-duan-zi-yu-wei-ping/chang-xiao-ren-bo-qie.md)
 * [北京的朋友](part-iii-duan-zi-yu-wei-ping/bei-jing-de-peng-you.md)
@@ -121,7 +121,7 @@
 * [姑爷上门宴](part-iii-duan-zi-yu-wei-ping/gu-ye-shang-men-yan.md)
 * [八十年代](part-iii-duan-zi-yu-wei-ping/ba-shi-nian-dai.md)
 * [九十年代](part-iii-duan-zi-yu-wei-ping/jiu-shi-nian-dai.md)
-* [行善](part-iii-duan-zi-yu-wei-ping/hang-shan.md)
+* [行善](part-iii-duan-zi-yu-wei-ping/xing-shan.md)
 * [申奥](part-iii-duan-zi-yu-wei-ping/shen-ao.md)
 * [捡钱包](part-iii-duan-zi-yu-wei-ping/jian-qian-bao.md)
 * [北京出租司机](part-iii-duan-zi-yu-wei-ping/bei-jing-chu-zu-si-ji.md)
