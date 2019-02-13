@@ -214,9 +214,9 @@ VII [拾遗](https://www.douban.com/group/topic/108308206/)
 
 `gitbook serve`
 
-访问 http://127.0.0.1:4000/
+访问 [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
-<img src="https://ww1.sinaimg.cn/large/61b8bbf4ly1g04o1w6u0ej225c1bg4k1.jpg" width="100%" />
+![](https://ww1.sinaimg.cn/large/61b8bbf4ly1g04o1w6u0ej225c1bg4k1.jpg)
 
 ### 3 build
 
