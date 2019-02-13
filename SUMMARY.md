@@ -147,5 +147,5 @@
 
 ## PART VII 拾遗
 
-* [特师拾遗](part-vii-shi-yi/untitled.md)
+* [特师拾遗](part-vii-shi-yi/te-shi-shi-yi.md)
 
