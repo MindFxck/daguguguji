@@ -201,6 +201,7 @@ VII 拾遗
 * [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
 * [人间动物园](http://lidamao.com)
 * [张大锤](https://www.jianshu.com/u/6a4cf8d99999)
+* [人间动物园.pdf](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/人间动物园.pdf)
 
 ## 一些命令
 
