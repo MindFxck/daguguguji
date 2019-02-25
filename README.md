@@ -196,12 +196,12 @@ VII 拾遗
 
 本文集的文字内容会基于以下内容整理：
 
-* [book.pdf](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/book.pdf)
-* [book.txt](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/book.txt)
+* [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master//特师文集.pdf)
+* [book.txt](https://github.com/MindFxck/daguguguji/blob/master/book.txt)*（特师文集.pdf的txt自动转换版）*
 * [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
 * [人间动物园](http://lidamao.com)
 * [张大锤](https://www.jianshu.com/u/6a4cf8d99999)
-* [人间动物园.pdf](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/人间动物园.pdf)
+* [人间动物园.pdf](https://github.com/MindFxck/daguguguji/blob/master/人间动物园.pdf)
 
 ## 一些命令
 
@@ -233,6 +233,7 @@ VII 拾遗
 
 * [孬爷爷](https://www.douban.com/people/post-rocker)
 * [⭐️](https://www.douban.com/people/onestar)
+* [imguozr](https://github.com/imguozr)
 
 ## 免责声明
 
