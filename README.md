@@ -197,7 +197,7 @@ VII 拾遗
 本文集的文字内容会基于以下内容整理：
 
 * [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master//特师文集.pdf)
-* [book.txt](https://github.com/MindFxck/daguguguji/blob/master/book.txt)*（特师文集.pdf的txt自动转换版）*
+* [book.txt](https://github.com/MindFxck/daguguguji/blob/master/book.txt)_（特师文集.pdf的txt自动转换版）_
 * [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
 * [人间动物园](http://lidamao.com)
 * [张大锤](https://www.jianshu.com/u/6a4cf8d99999)
