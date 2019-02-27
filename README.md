@@ -138,7 +138,7 @@ III 段子与微评
 
 IV 野生郭东林仿写
 
-* [ ] 114: 寿司机器人 \(微信朋友圈首发原创\) —— 举狗老师
+* [x] 114: [寿司机器人 \(微信朋友圈首发原创\) —— 举狗老师](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren)
 * [ ] 115: 动物园里的故事后一篇 —— dearbear
 * [ ] 116: K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了
 
