@@ -129,7 +129,7 @@
 
 ## PART IV 野生郭东林仿写
 
-* [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/untitled.md)
+* [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren.md)
 
 ## PART V 知乎网严肃文学评论家文评集锦
 
