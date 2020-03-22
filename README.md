@@ -205,6 +205,10 @@ VII 拾遗
 
 ## 一些命令
 
+### 获取 GitHub Repo
+
+`git clone git@github.com:MindFxck/daguguguji.git`
+
 ### gitbook简明教程
 
 [http://www.chengweiyang.cn/gitbook/index.html](http://www.chengweiyang.cn/gitbook/index.html)
