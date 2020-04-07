@@ -12,6 +12,10 @@ _@naoyeye 20181109 酒仙桥_
 
 [《特师文集》](https://mindfucking.gitbook.io/daguguguji/)
 
+## 本项目源代码
+
+https://github.com/MindFxck/daguguguji
+
 ## 进度
 
 I 小说与散文
