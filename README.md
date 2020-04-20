@@ -186,8 +186,8 @@ VII 补录
 * [ ] 147: 我路过城市的每一面躯体（ZT）
 * [ ] 148: 畜生开会
 * [ ] 149: 我今天就说句大实话
-* [ ] 150: 一个狗和大山
-* [ ] 151: 一个狗和河
+* [x] 150: [一个狗和大山](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-da-shan)
+* [x] 151: [一个狗和河](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-he)
 * [ ] 152: 下午在大润发水产区闲逛，看见一条鲫鱼吹牛
 * [ ] 153: [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le)
 * [ ] 154: [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
