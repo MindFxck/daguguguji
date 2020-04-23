@@ -169,8 +169,8 @@ VII 补录
 * [ ] 130: 冬至 老公今天崩溃了（温馨感人）
 * [ ] 131: 太冷了
 * [ ] 132: 一个奇怪的情形我见到在河边今天有一个时候。
-* [ ] 133: 胜利了一刚
-* [ ] 134: 抑郁症之苦《给心爱的人》
+* [x] 133: [胜利了一刚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-li-le-yi-gang)
+* [x] 134: [抑郁症之苦《给心爱的人》](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-yu-zheng-zhi-ku-gei-xin-ai-de-ren)
 * [ ] 135: （西德）十八岁以后生理有了变化，对肉有异常的渴望
 * [ ] 136: （大生活） 刚才亲眼目睹了一位苹果教徒的崩溃
 * [ ] 137: 我为何喜欢观察苍蝇的一个原因
