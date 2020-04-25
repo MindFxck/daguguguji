@@ -142,6 +142,8 @@
 ## PART VII 补录
 
 * [Untitled](part-vii-bu-lu/untitled.md)
+* [胜利了一刚](part-vii-bu-lu/sheng-li-le-yi-gang.md)
+* [抑郁症之苦《给心爱的人》](part-vii-bu-lu/yi-yu-zheng-zhi-ku-gei-xin-ai-de-ren.md)
 * [一个狗和大山](part-vii-bu-lu/yi-ge-gou-he-da-shan.md)
 * [一个狗和河](part-vii-bu-lu/yi-ge-gou-he-he.md)
 * [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le.md)
