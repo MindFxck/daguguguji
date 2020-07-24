@@ -61,6 +61,16 @@
 * [腰子](part-ii-shi-ge/yao-zi.md)
 * [想你](part-ii-shi-ge/xiang-ni.md)
 * [怎么同意地球是圆的](part-ii-shi-ge/zen-me-tong-yi-di-qiu-shi-yuan-de.md)
+* [淮北下雪了](part-ii-shi-ge/huai-bei-xia-xue-le.md)
+* [次要的生活](part-ii-shi-ge/ci-yao-de-sheng-huo.md)
+* [给心爱的人](part-ii-shi-ge/gei-xin-ai-de-ren.md)
+* [借口](part-ii-shi-ge/jie-kou.md)
+* [四月](part-ii-shi-ge/si-yue.md)
+* [九月](part-ii-shi-ge/jiu-yue.md)
+* [台风](part-ii-shi-ge/tai-feng.md)
+* [夜晚](part-ii-shi-ge/ye-wan.md)
+* [永恒](part-ii-shi-ge/yong-heng.md)
+
 
 ## PART III 段子与微评
 
@@ -152,4 +162,8 @@
 ## PART VII 拾遗
 
 * [特师拾遗](part-vii-shi-yi/te-shi-shi-yi.md)
+
+## PART VIII 音乐
+
+* [特师文章中提及的音乐合集](part-viii-yinyue/he-ji.md)
 
