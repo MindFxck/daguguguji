@@ -74,6 +74,15 @@ II 诗歌
 * [x] 49: [腰子](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/yao-zi)
 * [x] 50: [想你](https://mindfucking.gitbook.io/daguguguji/partii-shi-ge/xiang-ni)
 * [x] 51: [怎么同意地球是圆的](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/zen-me-tong-yi-di-qiu-shi-yuan-de)
+* [x]  [淮北下雪了]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/huai-bei-xia-xue-le)
+* [x]  [次要的生活]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ci-yao-de-sheng-huo)
+* [x]  [给心爱的人]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/gei-xin-ai-de-ren)
+* [x]  [借口]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/jie-kou)
+* [x]  [四月]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/si-yue)
+* [x]  [九月]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/jiu-yue)
+* [x]  [台风]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/tai-feng)
+* [x]  [夜晚]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ye-wan)
+* [x]  [永恒]((https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/yong-heng)
 
 III 段子与微评
 
@@ -195,6 +204,11 @@ VII 补录
 VII 拾遗
 
 * [特师拾遗](https://mindfucking.gitbook.io/daguguguji/part-vii-shi-yi/te-shi-shi-yi)
+
+VIII 音乐
+
+* [特师文章中提及的音乐合集](https://mindfucking.gitbook.io/daguguguji/part-viii-yinyue/he-ji)
+
 
 ## 原始文字参考
 
