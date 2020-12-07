@@ -145,11 +145,11 @@
 
 ## PART V 知乎网严肃文学评论家文评集锦
 
-* [Untitled](partv-zhi-hu-wang-yan-su-wen-xue-ping-lun-jia-wen-ping-ji-jin/untitled.md)
+* [荒谬与陌生：嘲笑中产的剧作家 —— 知乎网匿名用户](partv-zhi-hu-wang-yan-su-wen-xue-ping-lun-jia-wen-ping-ji-jin/huang-miu-yu-mo-sheng.md)
 
 ## PART IV 后记
 
-* [Untitled](part-iv-hou-ji/untitled.md)
+* [后记](part-iv-hou-ji/hou-ji.md)
 
 ## PART VII 补录
 
@@ -162,6 +162,7 @@
 * [现实中骚的女的到底多不多](part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo.md)
 * [明亮的地方——献给麻什 （王大锤）](part-vii-bu-lu/ming-liang-de-di-fang.md)
 * [城市驴火，巴西利亚](part-vii-bu-lu/cheng-shi-lv-huo.md)
+* [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](part-vii-bu-lu/sheng-huo-ji-zhan-chang.md)
 
 ## PART VII 拾遗
 

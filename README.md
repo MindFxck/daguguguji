@@ -157,10 +157,11 @@ IV 野生郭东林仿写
 
 V 知乎网严肃文学评论家文评集锦
 
-* [ ] 荒谬与陌生：嘲笑中产的剧作家 —— 知乎网匿名用户
+* [x] [荒谬与陌生：嘲笑中产的剧作家 —— 知乎网匿名用户](https://mindfucking.gitbook.io/daguguguji/partv-zhi-hu-wang-yan-su-wen-xue-ping-lun-jia-wen-ping-ji-jin/huang-miu-yu-mo-sheng.md)
 * [ ] 反叛标准，跳脱无关：后现代主义文学家 —— 知乎网友土耳其耳朵
 
 IV 后记
+* [x] [后记](https://mindfucking.gitbook.io/daguguguji/part-iv-hou-ji/hou-ji)
 
 VII 补录
 
@@ -173,6 +174,7 @@ VII 补录
 * [x] [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
 * [x] [明亮的地方——献给麻什 （王大锤）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/ming-liang-de-di-fang)
 * [x] [城市驴火，巴西利亚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/cheng-shi-lv-huo)
+* [x] [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-huo-ji-zhan-chang)
 * [ ] 下午河边的六个狗的摆放位置
 * [ ] 当代生活需要大功率激光枪
 * [ ] 夜晚正式开始 （beta）
