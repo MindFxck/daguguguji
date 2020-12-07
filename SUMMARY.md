@@ -163,6 +163,7 @@
 * [明亮的地方——献给麻什 （王大锤）](part-vii-bu-lu/ming-liang-de-di-fang.md)
 * [城市驴火，巴西利亚](part-vii-bu-lu/cheng-shi-lv-huo.md)
 * [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](part-vii-bu-lu/sheng-huo-ji-zhan-chang.md)
+* [伟大的工程要建三百年](part-vii-bu-lu/wei-da-de-gong-cheng.md)
 
 ## PART VII 拾遗
 

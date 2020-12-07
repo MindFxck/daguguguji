@@ -175,6 +175,7 @@ VII 补录
 * [x] [明亮的地方——献给麻什 （王大锤）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/ming-liang-de-di-fang)
 * [x] [城市驴火，巴西利亚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/cheng-shi-lv-huo)
 * [x] [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-huo-ji-zhan-chang)
+* [x] [伟大的工程要建三百年](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wei-da-de-gong-cheng)
 * [ ] 下午河边的六个狗的摆放位置
 * [ ] 当代生活需要大功率激光枪
 * [ ] 夜晚正式开始 （beta）
