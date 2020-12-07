@@ -164,7 +164,15 @@ IV 后记
 
 VII 补录
 
-* [ ] 城市驴火，巴西利亚
+* [x] [胜利了一刚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-li-le-yi-gang)
+* [x] [抑郁症之苦《给心爱的人》](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-yu-zheng-zhi-ku-gei-xin-ai-de-ren)
+* [x] [一个狗和大山](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-da-shan)
+* [x] [一个狗和河](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-he)
+* [x] [下午在大润发水产区闲逛，看见一条鲫鱼吹牛](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/da-run-fa)
+* [x] [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le)
+* [x] [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
+* [x] [明亮的地方——献给麻什 （王大锤）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/ming-liang-de-di-fang)
+* [x] [城市驴火，巴西利亚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/cheng-shi-lv-huo)
 * [ ] 下午河边的六个狗的摆放位置
 * [ ] 当代生活需要大功率激光枪
 * [ ] 夜晚正式开始 （beta）
@@ -178,8 +186,6 @@ VII 补录
 * [ ] 冬至 老公今天崩溃了（温馨感人）
 * [ ] 太冷了
 * [ ] 一个奇怪的情形我见到在河边今天有一个时候。
-* [x] [胜利了一刚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-li-le-yi-gang)
-* [x] [抑郁症之苦《给心爱的人》](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-yu-zheng-zhi-ku-gei-xin-ai-de-ren)
 * [ ] （西德）十八岁以后生理有了变化，对肉有异常的渴望
 * [ ] （大生活） 刚才亲眼目睹了一位苹果教徒的崩溃
 * [ ] 我为何喜欢观察苍蝇的一个原因
@@ -195,12 +201,6 @@ VII 补录
 * [ ] 我路过城市的每一面躯体（ZT）
 * [ ] 畜生开会
 * [ ] 我今天就说句大实话
-* [x] [一个狗和大山](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-da-shan)
-* [x] [一个狗和河](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-he)
-* [ ] 下午在大润发水产区闲逛，看见一条鲫鱼吹牛
-* [x] [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le)
-* [x] [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
-* [x] [明亮的地方——献给麻什 （王大锤）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/ming-liang-de-di-fang)
 
 VII 拾遗
 

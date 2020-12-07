@@ -157,9 +157,11 @@
 * [抑郁症之苦《给心爱的人》](part-vii-bu-lu/yi-yu-zheng-zhi-ku-gei-xin-ai-de-ren.md)
 * [一个狗和大山](part-vii-bu-lu/yi-ge-gou-he-da-shan.md)
 * [一个狗和河](part-vii-bu-lu/yi-ge-gou-he-he.md)
+* [下午在大润发水产区闲逛，看见一条鲫鱼吹牛](part-vii-bu-lu/da-run-fa.md)
 * [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le.md)
 * [现实中骚的女的到底多不多](part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo.md)
 * [明亮的地方——献给麻什 （王大锤）](part-vii-bu-lu/ming-liang-de-di-fang.md)
+* [城市驴火，巴西利亚](part-vii-bu-lu/cheng-shi-lv-huo.md)
 
 ## PART VII 拾遗
 
