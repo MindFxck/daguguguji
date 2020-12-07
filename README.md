@@ -257,9 +257,13 @@ VIII 音乐
 
 ## 贡献者名单
 
-* [孬爷爷](https://www.douban.com/people/post-rocker)
-* [⭐️](https://www.douban.com/people/onestar)
+* [naoyeye](https://github.com/naoyeye)
+* [2DKnight1900](https://github.com/DKnight1900)
+* [davidwu1010](https://github.com/davidwu1010)
+* [onestarshang](https://github.com/onestarshang)
 * [imguozr](https://github.com/imguozr)
+* [shuchenliu](https://github.com/shuchenliu)
+* [Octobug](https://github.com/Octobug)
 
 ## 免责声明
 
