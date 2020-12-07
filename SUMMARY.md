@@ -140,6 +140,8 @@
 ## PART IV 野生郭东林仿写
 
 * [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren.md)
+* [动物园的故事外一篇](part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear.md)
+* [K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了](part-iv-ye-sheng-guo-dong-lin-fang-xie/k1058.md)
 
 ## PART V 知乎网严肃文学评论家文评集锦
 
@@ -151,13 +153,13 @@
 
 ## PART VII 补录
 
-* [Untitled](part-vii-bu-lu/untitled.md)
 * [胜利了一刚](part-vii-bu-lu/sheng-li-le-yi-gang.md)
 * [抑郁症之苦《给心爱的人》](part-vii-bu-lu/yi-yu-zheng-zhi-ku-gei-xin-ai-de-ren.md)
 * [一个狗和大山](part-vii-bu-lu/yi-ge-gou-he-da-shan.md)
 * [一个狗和河](part-vii-bu-lu/yi-ge-gou-he-he.md)
 * [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le.md)
 * [现实中骚的女的到底多不多](part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo.md)
+* [明亮的地方——献给麻什 （王大锤）](part-vii-bu-lu/ming-liang-de-di-fang.md)
 
 ## PART VII 拾遗
 
