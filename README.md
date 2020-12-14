@@ -152,7 +152,7 @@ III 段子与微评
 IV 野生郭东林仿写
 
 * [x] [寿司机器人 \(微信朋友圈首发原创\) —— 举狗老师](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren)
-* [x] [动物园的故事外一篇 —— dearbear](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear)
+<!-- * [x] [动物园的故事外一篇 —— dearbear](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear) -->
 * [x] [K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/k1058)
 
 V 知乎网严肃文学评论家文评集锦
