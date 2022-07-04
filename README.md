@@ -14,7 +14,7 @@ _@naoyeye 20181109 酒仙桥_
 
 ## 本项目源代码
 
-[https://github.com/MindFxck/daguguguji](https://github.com/MindFxck/daguguguji)
+https://github.com/MindFxck/daguguguji
 
 ## 进度
 
@@ -32,7 +32,7 @@ I 小说与散文
 * [x] [现在可以准备了](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/xian-zai-ke-yi-zhun-bei-le)
 * [x] [这样的人活在世上到底是体制的悲哀还是个体惨剧，你说？](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zhe-yang-de-ren-huo-zai-shi-shang-dao-di-shi-ti-zhi-de-bei-ai-hai-shi-ge-ti-can-ju-ni-shuo)
 * [x] [“亚拉嗦 那就是北海公园”](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/ya-la-suo-na-jiu-shi-bei-hai-gong-yuan)
-* [x] [(德味) 我突然发现我使用诺基亚的方向完全错了](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le)
+* [x] [\(德味\) 我突然发现我使用诺基亚的方向完全错了](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le)
 * [x] [冬至老公崩溃了（温馨感人）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/dong-zhi-lao-gong-beng-kui-le-wen-gan-ren)
 * [x] [活在裆下：时代的晚上](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/huo-zai-dang-xia-shi-dai-de-wan-shang)
 * [x] [一次突如其来的性生活](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/yi-ci-tu-ru-qi-lai-de-xing-sheng-huo)
@@ -46,7 +46,7 @@ I 小说与散文
 * [x] [今天我指点了一个驴](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/jin-tian-wo-zhi-dian-le-yi-ge-lv)
 * [x] [说一下今天晚上跟着恰恰恰去签字的情况，哈感人（更新好了）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/shuo-yi-xia-jin-tian-wan-shang-gen-zhe-qia-qia-qia-qu-qian-zi-de-qing-kuang-ha-gan-ren-geng-xin-hao)
 * [x] [武汉某幸福中产家庭里一个狗，的波澜壮阔大计划（励志向上）](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/wu-han-mou-xing-fu-zhong-chan-jia-ting-li-yi-ge-gou-de-bo-lan-zhuang-kuo-da-ji-hua-li-zhi-xiang-shan)
-* [x] [广场（幸福圆满）](https://mindfucking.gitbook.io/daguguguji/\~/edit/drafts/-LVb-\_WIRdl4nvTPpVpM/parti-xiao-shuo-yu-san-wen/guang-chang-xing-fu-yuan-man)
+* [x] [广场（幸福圆满）](https://mindfucking.gitbook.io/daguguguji/~/edit/drafts/-LVb-_WIRdl4nvTPpVpM/parti-xiao-shuo-yu-san-wen/guang-chang-xing-fu-yuan-man)
 * [x] [一个奇怪的情形我见到在河边今天有一个时候](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/yi-ge-qi-guai-de-qing-xing-wo-jian-dao-zai-he-bian-jin-tian-you-yi-ge-shi-hou)
 * [x] [震惊了！我们一个同事是猩猩，今天被北京动物园的抓走了](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/zhen-jing-le-wo-men-yi-ge-tong-shi-shi-xing-xing-jin-tian-bei-bei-jing-dong-wu-yuan-de-zhua-zou-le)
 * [x] [（仮）夏日最后的风景](https://mindfucking.gitbook.io/daguguguji/parti-xiao-shuo-yu-san-wen/xia-ri-zui-hou-de-feng-jing)
@@ -151,7 +151,8 @@ III 段子与微评
 
 IV 野生郭东林仿写
 
-* [x] [寿司机器人 (微信朋友圈首发原创) —— 举狗老师](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren)
+* [x] [寿司机器人 \(微信朋友圈首发原创\) —— 举狗老师](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren)
+<!-- * [x] [动物园的故事外一篇 —— dearbear](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear) -->
 * [x] [K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/k1058)
 
 V 知乎网严肃文学评论家文评集锦
@@ -160,7 +161,6 @@ V 知乎网严肃文学评论家文评集锦
 * [ ] 反叛标准，跳脱无关：后现代主义文学家 —— 知乎网友土耳其耳朵
 
 IV 后记
-
 * [x] [后记](https://mindfucking.gitbook.io/daguguguji/part-iv-hou-ji/hou-ji)
 
 VII 补录
@@ -176,8 +176,8 @@ VII 补录
 * [x] [城市驴火，巴西利亚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/cheng-shi-lv-huo)
 * [x] [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-huo-ji-zhan-chang)
 * [x] [伟大的工程要建三百年](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wei-da-de-gong-cheng)
-* [x] [下午河边的六个狗的摆放位置](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xia-wu-he-bian-de-liu-ge-gou-de-bai-fang-wei-zhi)
-* [x] [当代生活需要大功率激光枪](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/dang-dai-sheng-huo-xu-yao-da-gong-lv-ji-guang-qiang)
+* [ ] 下午河边的六个狗的摆放位置
+* [ ] 当代生活需要大功率激光枪
 * [ ] 夜晚正式开始 （beta）
 * [ ] 社会主义新戏剧
 * [ ] bio-
@@ -196,9 +196,9 @@ VII 补录
 * [ ] 出大事儿了，老王开花了ZT
 * [ ] 蒙古族
 * [ ] 你们遇没遇到过开吉普想卖你望远镜的人？（zt）
-* [ ] 刚才一个狗让我此起彼伏(zt)
-* [ ] 我想出了一种极其刺激而又简单的日常娱乐方式(zt)
-* [ ] 今天我利用聪明智慧吃到了一根雪糕(zt)
+* [ ] 刚才一个狗让我此起彼伏\(zt\)
+* [ ] 我想出了一种极其刺激而又简单的日常娱乐方式\(zt\)
+* [ ] 今天我利用聪明智慧吃到了一根雪糕\(zt\)
 * [ ] 今天我无情的拆穿了一个狗的把戏（zt）
 * [ ] 诅咒有没有用？（zt）
 * [ ] 我路过城市的每一面躯体（ZT）
@@ -213,16 +213,17 @@ VIII 音乐
 
 * [特师文章中提及的音乐合集](https://mindfucking.gitbook.io/daguguguji/part-viii-yinyue/he-ji)
 
+
 ## 原始文字参考
 
 本文集的文字内容会基于以下内容整理：
 
-* [特师文集.pdf](%E7%89%B9%E5%B8%88%E6%96%87%E9%9B%86.pdf)
-* [book.txt](book.txt)_（特师文集.pdf的txt自动转换版）_
-* [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/%E4%BD%9B%E6%90%82%E8%9C%9C%E7%9A%84%E8%AF%97/)
+* [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master//特师文集.pdf)
+* [book.txt](https://github.com/MindFxck/daguguguji/blob/master/book.txt)_（特师文集.pdf的txt自动转换版）_
+* [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
 * [人间动物园](http://lidamao.com)
 * [张大锤](https://www.jianshu.com/u/6a4cf8d99999)
-* [人间动物园.pdf](%E4%BA%BA%E9%97%B4%E5%8A%A8%E7%89%A9%E5%9B%AD.pdf)
+* [人间动物园.pdf](https://github.com/MindFxck/daguguguji/blob/master/人间动物园.pdf)
 
 ## 一些命令
 
@@ -268,3 +269,4 @@ VIII 音乐
 
 1. 本项目所有内容都是出于文学研究目的收集，如有侵犯权益，请联系本人删除。
 2. 本项目所有内容仅供个人阅读使用，禁止用作商业用途。
+
