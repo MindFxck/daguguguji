@@ -177,7 +177,7 @@ VII 补录
 * [x] [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-huo-ji-zhan-chang)
 * [x] [伟大的工程要建三百年](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wei-da-de-gong-cheng)
 * [x] [下午河边的六个狗的摆放位置](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xia-wu-he-bian-de-liu-ge-gou-de-bai-fang-wei-zhi)
-* [ ] 当代生活需要大功率激光枪
+* [x] [当代生活需要大功率激光枪](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/dang-dai-sheng-huo-xu-yao-da-gong-lv-ji-guang-qiang)
 * [ ] 夜晚正式开始 （beta）
 * [ ] 社会主义新戏剧
 * [ ] bio-
