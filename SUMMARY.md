@@ -19,7 +19,7 @@
 * [现在可以准备了](parti-xiao-shuo-yu-san-wen/xian-zai-ke-yi-zhun-bei-le.md)
 * [这样的人活在世上到底是体制的悲哀还是个体惨剧，你说？](parti-xiao-shuo-yu-san-wen/zhe-yang-de-ren-huo-zai-shi-shang-dao-di-shi-ti-zhi-de-bei-ai-hai-shi-ge-ti-can-ju-ni-shuo.md)
 * [“亚拉嗦 那就是北海公园”](parti-xiao-shuo-yu-san-wen/ya-la-suo-na-jiu-shi-bei-hai-gong-yuan.md)
-* [\(德味\) 我突然发现我使用诺基亚的方向完全错了](parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le.md)
+* [(德味) 我突然发现我使用诺基亚的方向完全错了](parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le.md)
 * [冬至老公崩溃了（温馨感人）](parti-xiao-shuo-yu-san-wen/dong-zhi-lao-gong-beng-kui-le-wen-gan-ren.md)
 * [活在裆下：时代的晚上](parti-xiao-shuo-yu-san-wen/huo-zai-dang-xia-shi-dai-de-wan-shang.md)
 * [一次突如其来的性生活](parti-xiao-shuo-yu-san-wen/yi-ci-tu-ru-qi-lai-de-xing-sheng-huo.md)
@@ -70,7 +70,6 @@
 * [台风](part-ii-shi-ge/tai-feng.md)
 * [夜晚](part-ii-shi-ge/ye-wan.md)
 * [永恒](part-ii-shi-ge/yong-heng.md)
-
 
 ## PART III 段子与微评
 
@@ -140,7 +139,6 @@
 ## PART IV 野生郭东林仿写
 
 * [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren.md)
-<!-- * [动物园的故事外一篇](part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear.md) -->
 * [K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了](part-iv-ye-sheng-guo-dong-lin-fang-xie/k1058.md)
 
 ## PART V 知乎网严肃文学评论家文评集锦
@@ -164,6 +162,7 @@
 * [城市驴火，巴西利亚](part-vii-bu-lu/cheng-shi-lv-huo.md)
 * [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](part-vii-bu-lu/sheng-huo-ji-zhan-chang.md)
 * [伟大的工程要建三百年](part-vii-bu-lu/wei-da-de-gong-cheng.md)
+* [下午河边的六个狗的摆放位置](part-vii-bu-lu/xia-wu-he-bian-de-liu-ge-gou-de-bai-fang-wei-zhi.md)
 
 ## PART VII 拾遗
 
@@ -172,4 +171,3 @@
 ## PART VIII 音乐
 
 * [特师文章中提及的音乐合集](part-viii-yinyue/he-ji.md)
-
