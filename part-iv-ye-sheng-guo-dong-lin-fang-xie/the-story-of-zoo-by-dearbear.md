@@ -1,4 +1,3 @@
-<!--
 ---
 description: 文/dearbear
 ---
@@ -67,5 +66,3 @@ description: 文/dearbear
 - 作者：人熊（来自豆瓣）
 - 来源：[https://www.douban.com/note/555905579/](https://www.douban.com/note/555905579/)
 ---
-
--->

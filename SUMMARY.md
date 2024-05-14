@@ -70,6 +70,23 @@
 * [台风](part-ii-shi-ge/tai-feng.md)
 * [夜晚](part-ii-shi-ge/ye-wan.md)
 * [永恒](part-ii-shi-ge/yong-heng.md)
+* [1998年暑假](part-ii-shi-ge/1998-nian-shu-jia.md)
+* [爱你一万年](part-ii-shi-ge/ai-ni-yi-wan-nian.md)
+* [爱人同志](part-ii-shi-ge/ai-ren-tong-zhi.md)
+* [北大路](part-ii-shi-ge/bei-da-lu.md)
+* [大熊猫](part-ii-shi-ge/da-xiong-mao.md)
+* [交谈](part-ii-shi-ge/jiao-tan.md)
+* [老刘](part-ii-shi-ge/lao-liu.md)
+* [愿李萌鑫别再为爱苦恼](part-ii-shi-ge/li-xing-meng.md)
+* [麦地与诗人，答复](part-ii-shi-ge/mai-di.md)
+* [南城男的奶子大](part-ii-shi-ge/nan-cheng-nan-de-nai-zi-da.md)
+* [2019年终总结](part-ii-shi-ge/nian-zhong-zong-jie.md)
+* [人世间](part-ii-shi-ge/ren-shi-jian.md)
+* [石头和王八](part-ii-shi-ge/wang-ba.md)
+* [王美丽](part-ii-shi-ge/wang-mei-li.md)
+* [我疯了](part-ii-shi-ge/wo-feng-le.md)
+* [无题](part-ii-shi-ge/wu-ti.md)
+* [夜里](part-ii-shi-ge/ye-li.md)
 
 ## PART III 段子与微评
 
@@ -135,11 +152,18 @@
 * [捡钱包](part-iii-duan-zi-yu-wei-ping/jian-qian-bao.md)
 * [北京出租司机](part-iii-duan-zi-yu-wei-ping/bei-jing-chu-zu-si-ji.md)
 * [中产阶级](part-iii-duan-zi-yu-wei-ping/zhong-chan-jie-ji.md)
+* [白衬衫](part-iii-duan-zi-yu-wei-ping/bai-cheng-shan.md)
+* [抵制](part-iii-duan-zi-yu-wei-ping/di-zhi.md)
+* [借钱](part-iii-duan-zi-yu-wei-ping/jie-qian.md)
+* [精分](part-iii-duan-zi-yu-wei-ping/jing-fen.md)
+* [Love](part-iii-duan-zi-yu-wei-ping/Love.md)
 
 ## PART IV 野生郭东林仿写
 
 * [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren.md)
 * [K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了](part-iv-ye-sheng-guo-dong-lin-fang-xie/k1058.md)
+* [动物园的故事外一篇](part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear.md)
+
 
 ## PART V 知乎网严肃文学评论家文评集锦
 
