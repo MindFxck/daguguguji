@@ -83,6 +83,23 @@ II 诗歌
 * [x] [台风](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/tai-feng)
 * [x] [夜晚](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ye-wan)
 * [x] [永恒](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/yong-heng)
+* [x] [1998年暑假](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/1998-nian-shu-jia.md)
+* [x] [爱你一万年](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ai-ni-yi-wan-nian.md)
+* [x] [爱人同志](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ai-ren-tong-zhi.md)
+* [x] [北大路](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/bei-da-lu.md)
+* [x] [大熊猫](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/da-xiong-mao.md)
+* [x] [交谈](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/jiao-tan.md)
+* [x] [老刘](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/lao-liu.md)
+* [x] [愿李萌鑫别再为爱苦恼](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/li-xing-meng.md)
+* [x] [麦地与诗人，答复](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/mai-di.md)
+* [x] [南城男的奶子大](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/nan-cheng-nan-de-nai-zi-da.md)
+* [x] [2019年终总结](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/nian-zhong-zong-jie.md)
+* [x] [人世间](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ren-shi-jian.md)
+* [x] [石头和王八](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/wang-ba.md)
+* [x] [王美丽](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/wang-mei-li.md)
+* [x] [我疯了](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/wo-feng-le.md)
+* [x] [无题](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/wu-ti.md)
+* [x] [夜里](https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/ye-li.md)
 
 III 段子与微评
 
@@ -148,11 +165,15 @@ III 段子与微评
 * [x] [捡钱包](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/jian-qian-bao)
 * [x] [北京出租司机](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bei-jing-chu-zu-si-ji)
 * [x] [中产阶级](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/zhong-chan-jie-ji)
+* [x] [白衬衫](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/bai-cheng-shan.md)
+* [x] [抵制](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/di-zhi.md)
+* [x] [借钱](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/jie-qian.md)
+* [x] [精分](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/jing-fen.md)
+* [x] [Love](https://mindfucking.gitbook.io/daguguguji/part-iii-duan-zi-yu-wei-ping/Love.md)
 
 IV 野生郭东林仿写
 
 * [x] [寿司机器人 \(微信朋友圈首发原创\) —— 举狗老师](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren)
-<!-- * [x] [动物园的故事外一篇 —— dearbear](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear) -->
 * [x] [K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/k1058)
 
 V 知乎网严肃文学评论家文评集锦
@@ -176,8 +197,8 @@ VII 补录
 * [x] [城市驴火，巴西利亚](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/cheng-shi-lv-huo)
 * [x] [生活即战场！李大根与一个鱼的一次斗智斗勇（温馨感人）](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/sheng-huo-ji-zhan-chang)
 * [x] [伟大的工程要建三百年](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wei-da-de-gong-cheng)
-* [ ] 下午河边的六个狗的摆放位置
-* [ ] 当代生活需要大功率激光枪
+* [x] [下午河边的六个狗的摆放位置](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xia-wu-he-bian-de-liu-ge-gou-de-bai-fang-wei-zhi.md)
+* [x] [当代生活需要大功率激光枪](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/dang-dai-sheng-huo-xu-yao-da-gong-shuai-ji-guang-qiang.md)
 * [ ] 夜晚正式开始 （beta）
 * [ ] 社会主义新戏剧
 * [ ] bio-
@@ -218,12 +239,12 @@ VIII 音乐
 
 本文集的文字内容会基于以下内容整理：
 
-* [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master//特师文集.pdf)
-* [book.txt](https://github.com/MindFxck/daguguguji/blob/master/book.txt)_（特师文集.pdf的txt自动转换版）_
+* [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master/assets/特师文集.pdf)
+* [book.txt](https://github.com/MindFxck/daguguguji/blob/master/assets/book.txt)_（特师文集.pdf的txt自动转换版）_
+* [人间动物园.pdf](https://github.com/MindFxck/daguguguji/blob/master/assets/人间动物园.pdf)
 * [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
 * [人间动物园](http://lidamao.com)
 * [张大锤](https://www.jianshu.com/u/6a4cf8d99999)
-* [人间动物园.pdf](https://github.com/MindFxck/daguguguji/blob/master/人间动物园.pdf)
 
 ## 一些命令
 
@@ -236,6 +257,10 @@ VIII 音乐
 [http://www.chengweiyang.cn/gitbook/index.html](http://www.chengweiyang.cn/gitbook/index.html)
 
 ### 1 安装 gitbook-cli
+
+因为本项目比较老旧，node 版本大于等于 v12.22.11 下会无法启动。
+
+可以明确的是，在 node v8.11.0 和 v10.16.3 下都是可以正常开发的。
 
 `npm install gitbook-cli -g`
 

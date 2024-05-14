@@ -162,7 +162,8 @@
 
 * [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren.md)
 * [K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了](part-iv-ye-sheng-guo-dong-lin-fang-xie/k1058.md)
-* [动物园的故事外一篇](part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear.md)
+<!-- 应作者要求移除《动物园的故事外一篇》 https://github.com/MindFxck/daguguguji/pull/26  -->
+<!-- * [动物园的故事外一篇](part-iv-ye-sheng-guo-dong-lin-fang-xie/the-story-of-zoo-by-dearbear.md) -->
 
 
 ## PART V 知乎网严肃文学评论家文评集锦
