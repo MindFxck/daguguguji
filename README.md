@@ -239,7 +239,7 @@ VIII 音乐
 
 本文集的文字内容会基于以下内容整理：
 
-* [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master/assets/特师文集.pdf)
+* [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master/assets/book.pdf)
 * [book.txt](https://github.com/MindFxck/daguguguji/blob/master/assets/book.txt)_（特师文集.pdf的txt自动转换版）_
 * [人间动物园.pdf](https://github.com/MindFxck/daguguguji/blob/master/assets/人间动物园.pdf)
 * [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
